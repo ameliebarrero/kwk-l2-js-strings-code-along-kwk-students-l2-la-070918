@@ -1,5 +1,5 @@
 // Write your code in this file!
-var currentUser = "Amelie"
+var currentUser = "amelie"
 var welcomeMessage = "Welcome to Klossybook, " + (currentUser) + "!"
 var excitedWelcomeMessage = "WELCOME TO KLOSSYBOOK, "+ (upperCaseCurrentUser) 
 const upperCaseCurrentUser = currentuser.toUpperCase();
