@@ -2,7 +2,9 @@
 var currentUser = "Amelie"
 var welcomeMessage = "Welcome to Klossybook, " + (currentUser) + "!"
 // const upperCaseCurrentUser = currentuser.toUpperCase();
-var excitedWelcomeMessage = "WELCOME TO KLOSSYBOOK, " + (upperCaseCurrentUser) 
+var excitedWelcomeMessage = "WELCOME TO KLOSSYBOOK, "
+
+// + (upperCaseCurrentUser) 
 
 // + "!"
 // const firstInitial = currentUser[0];
